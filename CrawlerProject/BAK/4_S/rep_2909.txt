@@ -1,0 +1,113 @@
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://obituaries.nydailynews.com/ as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701442
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://www.twitter.com/johnannese as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701443
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/c/ra.css?r=20170913003 as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701444
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://link.nydailynews.com/join/4xm/newslettersignup-desktop as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701445
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/img/static/rh-subscribe.jpg as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701446
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://homedelivery.nydailynews.com/ as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701447
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/img/static/apple/touch-icon-120.jpg as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701448
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://www.twitter.com/rparascandola as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701449
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://games.nydailynews.com/?arkpromo=NYDN_Lifestyle_Games as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701450
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://pixel.quantserve.com/pixel/p-af_gBGFZgopbs.gif as per your "shouldVisit" policy
+unique count: 190156
+in count: 87370
+out count: 102788
+total url count: 701451
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/img/static/apple/touch-icon-76.jpg as per your "shouldVisit" policy
+unique count: 190157
+in count: 87370
+out count: 102789
+total url count: 701452
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://twitter.com/intent/tweet?text=Retired%20correction%20officer%20shot%20fighting%20off%20robbers%20in%20Brooklyn&url=http%3A%2F%2Fnydn.us%2F2wYEyjK as per your "shouldVisit" policy
+unique count: 190157
+in count: 87370
+out count: 102789
+total url count: 701453
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://www.instagram.com/nydailynews/ as per your "shouldVisit" policy
+unique count: 190157
+in count: 87370
+out count: 102789
+total url count: 701454
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/img/static/rh-app.jpg as per your "shouldVisit" policy
+unique count: 190157
+in count: 87370
+out count: 102789
+total url count: 701455
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: https://www.youtube.com/user/nydailynews as per your "shouldVisit" policy
+unique count: 190157
+in count: 87370
+out count: 102789
+total url count: 701456
+19:30:47 DEBUG [Crawler 1] - [WebCrawler]- Not visiting: http://classifieds.nydailynews.com/ as per your "shouldVisit" policy
+19:30:47 INFO  [Crawler 1] - [WebCrawler]- Visited: http://www.nydailynews.com/new-york/nyc-crime/retired-correction-officer-shot-fighting-robbers-brooklyn-article-1.3411295
+URL: http://www.nydailynews.com/new-york/nyc-crime/retired-correction-officer-shot-fighting-robbers-brooklyn-article-1.3411295
+unexpected count:: 9
+big file count:: 0
+cf count:: 0
+total count:: 19918
+a value: 19475b value: 19475
+s1: 1, s2: 1, s3: 15807, s4: 3557, s5: 109, img count: 6
+19:30:49 INFO  [Thread-1] - [CrawlController]- It looks like no thread is working, waiting for 10 seconds to make sure...
+19:30:59 INFO  [Thread-1] - [CrawlController]- No thread is working and no more URLs are in queue waiting for another 10 seconds to make sure...
+19:31:09 INFO  [Thread-1] - [CrawlController]- All of the crawlers are stopped. Finishing the process...
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Processed Pages: 2855
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Total Links Found: 293478
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Total Text Size: 22880853
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Processed Pages: 2797
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Total Links Found: 285559
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Total Text Size: 22268309
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Processed Pages: 2790
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Total Links Found: 286025
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Total Text Size: 21951913
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Processed Pages: 2776
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Total Links Found: 283810
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Total Text Size: 21911329
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Processed Pages: 2690
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Total Links Found: 272949
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Total Text Size: 20546070
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Processed Pages: 2901
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Total Links Found: 296646
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Total Text Size: 23311945
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Processed Pages: 2666
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Total Links Found: 279444
+19:31:09 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Total Text Size: 21244639
+19:31:09 INFO  [Thread-1] - [CrawlController]- Waiting for 10 seconds before final clean up...
+19:31:21 INFO  [main] - [Controller]- Aggregated Statistics:
+19:31:21 INFO  [main] - [Controller]- 	Processed Pages: 19475
+19:31:21 INFO  [main] - [Controller]- 	Total Links found: 1997911
+19:31:21 INFO  [main] - [Controller]- 	Total Text Size: 154115058

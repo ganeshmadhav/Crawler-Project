@@ -1,0 +1,72 @@
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/polopoly_fs/1.3098768.1493133703!/img/httpImage/image.jpg_gen/derivatives/gallery_1200/2017-chevrolet-camaro.jpg as per your "shouldVisit" policy
+unique count: 162770
+in count: 74299
+out count: 88470
+total url count: 677183
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/polopoly_fs/1.3527664.1506612035!/img/httpImage/image.jpg_gen/derivatives/gallery_250/2018-nissan-armada-platinum-reserve-front-left-quarter.jpg as per your "shouldVisit" policy
+unique count: 162771
+in count: 74300
+out count: 88470
+total url count: 677184
+unique count: 162772
+in count: 74300
+out count: 88471
+total url count: 677185
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/polopoly_fs/1.3098790.1493134158!/img/httpImage/image.jpg_gen/derivatives/gallery_320/2017-audi-a4-allroad.jpg as per your "shouldVisit" policy
+unique count: 162772
+in count: 74300
+out count: 88471
+total url count: 677186
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://static1.nydailynews.com/polopoly_fs/1.3530454.1506705196!/img/httpImage/image.jpg_gen/derivatives/landscape_130/kaparos-ceremony-brooklyn-yom-kippur.jpg as per your "shouldVisit" policy
+unique count: 162772
+in count: 74300
+out count: 88471
+total url count: 677187
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://www.googletagmanager.com/ns.html?id=GTM-M9G2T8 as per your "shouldVisit" policy
+unique count: 162772
+in count: 74300
+out count: 88471
+total url count: 677188
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/polopoly_fs/1.3098768.1493133703!/img/httpImage/image.jpg_gen/derivatives/gallery_250/2017-chevrolet-camaro.jpg as per your "shouldVisit" policy
+unique count: 162772
+in count: 74300
+out count: 88471
+total url count: 677189
+10:23:32 DEBUG [Crawler 2] - [WebCrawler]- Not visiting: http://assets.nydailynews.com/nydn/c/rg.css?r=20170913003 as per your "shouldVisit" policy
+10:23:32 INFO  [Crawler 2] - [WebCrawler]- Visited: http://www.nydailynews.com/autos/gallery-2017-daily-news-autos-awards-recommended-models-gallery-1.3098486?pmSlide=1.3098790
+URL: http://www.nydailynews.com/autos/gallery-2017-daily-news-autos-awards-recommended-models-gallery-1.3098486?pmSlide=1.3098790
+unexpected count:: 12
+big file count:: 0
+cf count:: 0
+total count:: 19987
+a value: 19655b value: 19588
+s1: 1, s2: 1, s3: 16674, s4: 2834, s5: 78, img count: 4
+10:23:41 INFO  [Thread-1] - [CrawlController]- It looks like no thread is working, waiting for 10 seconds to make sure...
+10:23:51 INFO  [Thread-1] - [CrawlController]- No thread is working and no more URLs are in queue waiting for another 10 seconds to make sure...
+10:24:01 INFO  [Thread-1] - [CrawlController]- All of the crawlers are stopped. Finishing the process...
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Processed Pages: 2800
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Total Links Found: 283875
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 1 > Total Text Size: 21267740
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Processed Pages: 2857
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Total Links Found: 282675
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 2 > Total Text Size: 21259812
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Processed Pages: 2836
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Total Links Found: 285713
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 3 > Total Text Size: 21574187
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Processed Pages: 2771
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Total Links Found: 271843
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 4 > Total Text Size: 20949061
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Processed Pages: 2839
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Total Links Found: 283620
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 5 > Total Text Size: 21675660
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Processed Pages: 2797
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Total Links Found: 282710
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 6 > Total Text Size: 20860204
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Processed Pages: 2755
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Total Links Found: 279931
+10:24:01 INFO  [Thread-1] - [WebCrawler]- Crawler 7 > Total Text Size: 20672704
+10:24:01 INFO  [Thread-1] - [CrawlController]- Waiting for 10 seconds before final clean up...
+10:24:12 INFO  [main] - [Controller]- Aggregated Statistics:
+10:24:12 INFO  [main] - [Controller]- 	Processed Pages: 19655
+10:24:12 INFO  [main] - [Controller]- 	Total Links found: 1970367
+10:24:12 INFO  [main] - [Controller]- 	Total Text Size: 148259368

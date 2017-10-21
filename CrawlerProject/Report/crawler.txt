@@ -1,0 +1,36 @@
+Name: Ganesh Madhav Raghupathy
+USC ID: 4800127468
+News site crawled: www.nydailynews.com
+Fetch Statistics
+================
+# fetches attempted:
+# fetches succeeded:
+# fetches aborted:
+# fetches failed:
+Outgoing URLs:
+==============
+Total URLs extracted:
+# unique URLs extracted: 170472
+# unique URLs within News Site: 77677
+# unique URLs outside News Site: 92790
+Status Codes:
+=============
+200 OK:
+301 Moved Permanently:
+401 Unauthorized:
+403 Forbidden:
+404 Not Found:
+File Sizes:
+===========
+< 1KB:0
+1KB ~ <10KB:1
+10KB ~ <100KB:16467
+100KB ~ <1MB:2970
+>= 1MB:80
+Content Types:
+==============
+text/html:
+image/gif:
+image/jpeg:
+image/png:
+application/pdf:
